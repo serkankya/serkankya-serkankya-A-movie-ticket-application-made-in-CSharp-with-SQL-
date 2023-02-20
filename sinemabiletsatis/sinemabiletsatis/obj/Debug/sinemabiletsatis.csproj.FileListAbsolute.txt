@@ -1,0 +1,12 @@
+D:\VisualStudio projects\sinemabiletsatis\sinemabiletsatis\bin\Debug\sinemabiletsatis.exe.config
+D:\VisualStudio projects\sinemabiletsatis\sinemabiletsatis\bin\Debug\sinemabiletsatis.exe
+D:\VisualStudio projects\sinemabiletsatis\sinemabiletsatis\bin\Debug\sinemabiletsatis.pdb
+D:\VisualStudio projects\sinemabiletsatis\sinemabiletsatis\obj\Debug\sinemabiletsatis.csproj.AssemblyReference.cache
+D:\VisualStudio projects\sinemabiletsatis\sinemabiletsatis\obj\Debug\sinemabiletsatis.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio projects\sinemabiletsatis\sinemabiletsatis\obj\Debug\sinemabiletsatis.Form1.resources
+D:\VisualStudio projects\sinemabiletsatis\sinemabiletsatis\obj\Debug\sinemabiletsatis.Properties.Resources.resources
+D:\VisualStudio projects\sinemabiletsatis\sinemabiletsatis\obj\Debug\sinemabiletsatis.csproj.GenerateResource.cache
+D:\VisualStudio projects\sinemabiletsatis\sinemabiletsatis\obj\Debug\sinemabiletsatis.csproj.CoreCompileInputs.cache
+D:\VisualStudio projects\sinemabiletsatis\sinemabiletsatis\obj\Debug\sinemabiletsatis.exe
+D:\VisualStudio projects\sinemabiletsatis\sinemabiletsatis\obj\Debug\sinemabiletsatis.pdb
+D:\VisualStudio projects\sinemabiletsatis\sinemabiletsatis\obj\Debug\sinemabiletsatis.Form2.resources
